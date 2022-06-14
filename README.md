@@ -1,2 +1,2 @@
-# my-website
-My website :)
+# coursera-test
+Coursera test repository
